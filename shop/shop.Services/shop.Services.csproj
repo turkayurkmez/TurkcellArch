@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\shop.DataAccess\shop.DataAccess.csproj" />
+    <ProjectReference Include="..\shop.DTOs\shop.DTOs.csproj" />
+  </ItemGroup>
+
+</Project>

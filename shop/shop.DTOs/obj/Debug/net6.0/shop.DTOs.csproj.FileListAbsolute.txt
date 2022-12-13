@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\bin\Debug\net6.0\shop.DTOs.deps.json
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\bin\Debug\net6.0\shop.DTOs.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\bin\Debug\net6.0\shop.DTOs.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\obj\Debug\net6.0\shop.DTOs.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\obj\Debug\net6.0\shop.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\obj\Debug\net6.0\shop.DTOs.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\obj\Debug\net6.0\shop.DTOs.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\obj\Debug\net6.0\shop.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\obj\Debug\net6.0\shop.DTOs.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\obj\Debug\net6.0\refint\shop.DTOs.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\obj\Debug\net6.0\shop.DTOs.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\Architectural Patterns\Group 4\shop\shop.DTOs\obj\Debug\net6.0\ref\shop.DTOs.dll
